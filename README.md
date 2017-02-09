@@ -10,5 +10,6 @@ Brendon Reynolds - Quadratic Formula and Properties of Numbers
 
 Adam Crutchfield - Geometry
 
+Submit all modules by Friday please!
 
 
